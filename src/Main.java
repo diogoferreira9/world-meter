@@ -392,7 +392,7 @@ public class Main {
         // Registra o tempo inicial de carregamento dos ficheiros
         long start = System.currentTimeMillis();
         // Tenta carregar os ficheiros de dados da pasta "BigFiles"
-        boolean parseOk = parseFiles(new File("BigFiles"));
+        boolean parseOk = parseFiles(new File("test-files/MainTest"));
         if (!parseOk) {
             // Exibe uma mensagem de erro se o carregamento dos ficheiros falhar
             System.out.println("Error Loading files");
