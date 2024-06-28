@@ -83,6 +83,8 @@ public class Queries {
         return resultado.toString();
     }
 
+    //FUNÇÕES PRINCIPAIS
+    
     // Função para contar o número de regiões de uma lista de países fornecida
     public static Result countRegions(String countriesList) {
         // Divide a lista de países recebida numa array de nomes de países
@@ -173,8 +175,6 @@ public class Queries {
         // Retorna os resultados
         return new Result(true, null, resultadoString.toString());
     }
-
-    //FUNÇÕES PRINCIPAIS
 
     // Função para contar o número de cidades com uma população mínima especificada
     public static Result countCities(String minPopulationString) {
