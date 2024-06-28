@@ -36,9 +36,9 @@ Once the application is running, you can execute various commands. Here is a lis
 
 ## Technical Details
 
-Programming Language: Java.
-Environment: Console-based application.
-Data Structures: Utilizes lists, sets, and maps for efficient data management.
+Programming Language: Java\n
+Environment: Console-based application\n
+Data Structures: Utilizes lists, sets, and maps for efficient data management\n
 
 ## Conclusion
 
