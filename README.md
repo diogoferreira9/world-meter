@@ -44,4 +44,4 @@ Data Structures: Utilizes lists, sets, and maps for efficient data management.
 
 This World Meter project showcases the capability to process and analyze complex geographical and demographic data. It serves as a valuable tool for anyone interested in data analysis, providing a robust foundation for further development and enhancement.
 
-## Enjoy exploring the world of data with World Meter!
+Enjoy exploring the world of data with World Meter!
