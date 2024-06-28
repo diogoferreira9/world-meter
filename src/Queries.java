@@ -951,6 +951,7 @@ public class Queries {
         // Retorna os resultados
         return new Result(true, null, finalResult.toString());
     }
+    
     public static Result help(){
         String help = """
                 -------------------------
@@ -980,11 +981,8 @@ public class Queries {
 
         return new Result(true, null, help);
     }
+
     public static Result quit(){
         return null;
     }
-
-
-
-
 }
